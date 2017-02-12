@@ -71,7 +71,7 @@
     "url-loader": "^0.5.7",
     "webpack": "^2.1.0-beta.21",
     "webpack-dev-middleware": "^1.4.0",
-    "webpack-hot-middleware": "^2.6.0"
+    "webpack-hot-middleware": "^2.16.1"
   },
   "directories": {
     "test": "test"
