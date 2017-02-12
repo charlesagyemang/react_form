@@ -4,7 +4,7 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 
 //const serverURL = process.env.SERVER_URL || "https://kinto.notmyidea.org/v1/";
 const serverURL = process.env.SERVER_URL || "https://formbuildertry.herokuapp.com/v1/";
-const appURL = process.env.APP_URL || "https://www.fourmilieres.net/";
+const appURL = process.env.APP_URL || "https://enigmatic-beach-28459.herokuapp.com";
 
 
 module.exports = {
