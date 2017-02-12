@@ -78,7 +78,7 @@
     "type": "git",
     "url": "git+https://github.com/Kinto/formbuilder.git"
   },
-  "author": "Kinto team <kinto@mozilla.org>",
+  "author": "Charles",
   "keywords": [
     "react",
     "form",
